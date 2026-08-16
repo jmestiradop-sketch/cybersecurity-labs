@@ -18,16 +18,4 @@ Repositorio dedicado a documentar las actividades prácticas, análisis de segur
 
 ---
 
-## 🎯 Competencias Clave & Enfoque
-- **Seguridad de la Información:** Tríada CIA (Confidencialidad, Integridad y Disponibilidad), análisis de riesgos y cumplimiento normativo.
-- **Enfoque Metódico:** Diagnóstico técnico preventivo y correctivo, auditoría documental y trazabilidad de procesos.
-- **Continuidad Operativa:** Mitigación temprana de incidentes, resiliencia y protocolos de calidad.
 
----
-
-## 📂 Contenido del Repositorio
-- `01-declaracion-profesional/` — Documentación del perfil y esquema profesional.
-- `02-marcos-de-seguridad-y-controles/` — Prácticas sobre marcos de seguridad (NIST, CIA, normativas).
-- `03-amenazas-y-vulnerabilidades/` — Análisis de riesgos y mitigación.
-*(A medida que avances en el curso, podrás ir añadiendo las carpetas de tus actividades).*# cybersecurity-labs
-Portafolino Ciberseguridad Google
