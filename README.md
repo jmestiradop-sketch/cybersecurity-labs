@@ -1,21 +1,30 @@
-# 🛡️ Portafolio de Ciberseguridad & Laboratorios
-**José Manuel Estirado** | [LinkedIn](https://www.linkedin.com/in/josémanuelestiradopachecooperario)
+# 🛡️ Portfolio de Ciberseguridad & Laboratorios Prácticos
 
-Repositorio dedicado a documentar las actividades prácticas, análisis de seguridad y laboratorios desarrollados en el **Certificado Profesional de Ciberseguridad de Google** y proyectos complementarios.
+## 👤 Perfil Profesional
 
----
+Entusiasta de la seguridad de la información con sólida experiencia en control de calidad, trazabilidad, gestión de procesos operativos y resolución proactiva de problemas. Comprometido con la protección de datos y el cumplimiento de las normativas vigentes para salvaguardar a las organizaciones frente a amenazas emergentes.
 
-## 👤 Declaración Profesional / Professional Statement
-
-> «Entusiasta de la seguridad de la información con sólida experiencia en control de calidad, trazabilidad, gestión de procesos operativos y resolución proactiva de problemas. Valoro profundamente la protección de los datos y el cumplimiento de las normativas vigentes para salvaguardar a las personas y a las organizaciones frente a amenazas emergentes. Busco aplicar mi capacidad analítica y atención al detalle para identificar riesgos de forma temprana y garantizar la continuidad operativa de los entornos tecnológicos, así como incorporarme a un proyecto a largo plazo.»
-
-<details>
-<summary>🌐 <i>English version (click to expand)</i></summary>
-
-> *"Information security enthusiast with solid experience in quality control, traceability, operational process management, and proactive problem-solving. I deeply value data protection and regulatory compliance to safeguard people and organizations against emerging threats. I seek to apply my analytical mindset and attention to detail to identify risks early, ensure business continuity across technological environments, and commit to a long-term project."*
-
-</details>
+Enfocado en aplicar capacidad analítica y atención al detalle para identificar riesgos de forma temprana, garantizar la continuidad operativa de los entornos tecnológicos y aportar valor en proyectos a largo plazo.
 
 ---
 
+## 🛠️ Competencias & Marcos Técnicos
 
+* **Gobernanza, Riesgo y Cumplimiento (GRC):** NIST CSF, PCI DSS, RGPD/GDPR, SOC 1 & 2, ISO 27001.
+* **Seguridad Defensiva y Operativa:** Mínimo Privilegio (RBAC), Cifrado (At-Rest / In-Transit), Copias de Seguridad (3-2-1), DRP, IDS/IPS, Firewalls.
+* **Gestión de Procesos:** Trazabilidad operativa, auditoría interna de activos, análisis de brechas (*gap analysis*) y mitigación de riesgos.
+
+---
+
+## 📂 Proyectos y Casos Prácticos
+
+### 1. Auditoría de Seguridad, Riesgos y Cumplimiento
+* 📋 **[Auditoría Integral y Evaluación de Riesgos - Botium Toys](./Botium_Toys_Auditoria_y_Cumplimiento.md)**
+  * **Resumen:** Evaluación exhaustiva del programa de seguridad de una empresa de comercio minorista y electrónico.
+  * **Entregables:** Inventario de activos, evaluación de riesgos bajo NIST CSF, listas de verificación de cumplimiento (PCI DSS, RGPD, SOC 1/2) y hoja de ruta de mitigación estructurada en 3 fases.
+
+---
+
+## 📬 Contacto
+* **GitHub:** [@jmestiradop-sketch](https://github.com/jmestiradop-sketch)
+* **Especialidad:** Seguridad de la Información | Gestión de Riesgos | Auditoría y Procesos
