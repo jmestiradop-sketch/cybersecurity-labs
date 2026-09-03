@@ -29,3 +29,4 @@ Enfocado en aplicar capacidad analítica y atención al detalle para identificar
 * **GitHub:** [@jmestiradop-sketch](https://github.com/jmestiradop-sketch)
 * **Especialidad:** Seguridad de la Información | Gestión de Riesgos | Auditoría y Procesos
 
+* 📄 **[Ver Caso Práctico 2:  marco de ciberseguridad del NIST](Analisis_del_informe_de_incidentes_Ejemplo)**
