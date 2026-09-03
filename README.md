@@ -23,10 +23,9 @@ Enfocado en aplicar capacidad analítica y atención al detalle para identificar
   * **Resumen:** Evaluación exhaustiva del programa de seguridad de una empresa de comercio minorista y electrónico.
   * **Entregables:** Inventario de activos, evaluación de riesgos bajo NIST CSF, listas de verificación de cumplimiento (PCI DSS, RGPD, SOC 1/2) y hoja de ruta de mitigación estructurada en 3 fases.
 
----
 
 ## 📬 Contacto
 * **GitHub:** [@jmestiradop-sketch](https://github.com/jmestiradop-sketch)
 * **Especialidad:** Seguridad de la Información | Gestión de Riesgos | Auditoría y Procesos
 
-* 📄 **[Ver Caso Práctico 2:  marco de ciberseguridad del NIST](Analisis_del_informe_de_incidentes_Ejemplo.docx)**
+* 📄 **[Ver Caso Práctico 2:  marco de ciberseguridad del NIST](Analisis_del_informe_de_incidentes.pdf)**
