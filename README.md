@@ -35,7 +35,7 @@ Enfocado en aplicar capacidad analítica y atención al detalle para identificar
   * **Resumen:** Evaluación exhaustiva del programa de seguridad de una empresa de comercio minorista y electrónico.
   * **Entregables:** Inventario de activos, evaluación de riesgos bajo NIST CSF, listas de verificación de cumplimiento (PCI DSS, RGPD, SOC 1/2) y hoja de ruta de mitigación estructurada en 3 fases.
 
-* 📄 **[Ver Caso Práctico 2:  marco de ciberseguridad del NIST](Analisis_del_informe_de_incidentes.pdf)**
+* 📄 **[Marco de ciberseguridad del NIST](Analisis_del_informe_de_incidentes.pdf)**
 
 * 🐧 **[Gestión y Auditoría de Permisos de Archivo en Linux](Utilizar%20los%20comandos%20de%20Linux%20para%20gestionar%20los%20permisos%20de%20archivo.pdf)**
   * **Resumen:** Auditoría técnica y corrección de permisos de acceso en entornos Linux (CLI) aplicando el principio de mínimo privilegio en el directorio `/home/researcher2/projects`.
