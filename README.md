@@ -28,3 +28,16 @@ Enfocado en aplicar capacidad analítica y atención al detalle para identificar
 
 * 📄 **[Ver Caso Práctico 2:  marco de ciberseguridad del NIST](Analisis_del_informe_de_incidentes.pdf)**
 
+* ## 📂 Proyectos y Casos Prácticos
+
+### 1. Auditoría de Seguridad, Riesgos y Cumplimiento
+* 📋 **[Auditoría Integral y Evaluación de Riesgos - Botium Toys](Botium_Toys_Evaluacion_de_Riesgos.pdf)**
+  * **Resumen:** Evaluación exhaustiva del programa de seguridad de una empresa de comercio minorista y electrónico.
+  * **Entregables:** Inventario de activos, evaluación de riesgos bajo NIST CSF, listas de verificación de cumplimiento (PCI DSS, RGPD, SOC 1/2) y hoja de ruta de mitigación estructurada en 3 fases.
+
+* 📄 **[Ver Caso Práctico 2:  marco de ciberseguridad del NIST](Analisis_del_informe_de_incidentes.pdf)**
+
+* 🐧 **[Gestión y Auditoría de Permisos de Archivo en Linux](Utilizar%20los%20comandos%20de%20Linux%20para%20gestionar%20los%20permisos%20de%20archivo.pdf)**
+  * **Resumen:** Auditoría técnica y corrección de permisos de acceso en entornos Linux (CLI) aplicando el principio de mínimo privilegio en el directorio `/home/researcher2/projects`.
+  * **Entregables:** Inspección de cadenas de permisos y ficheros ocultos (`ls -la`, `ls -ld`), revocación de permisos no autorizados en archivos confidenciales (`chmod`), y restricción de privilegios de ejecución en directorios para mitigar riesgos de modificación o fuga de datos.
+
