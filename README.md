@@ -27,3 +27,7 @@ Enfocado en aplicar capacidad analítica y atención al detalle para identificar
   * **Entregables:** Inventario de activos, evaluación de riesgos bajo NIST CSF, listas de verificación de cumplimiento (PCI DSS, RGPD, SOC 1/2) y hoja de ruta de mitigación estructurada en 3 fases.
 
 * 📄 **[Ver Caso Práctico 2:  marco de ciberseguridad del NIST](Analisis_del_informe_de_incidentes.pdf)**
+📋 Gestión y Auditoría de Permisos de Archivo en Linux
+Resumen: Auditoría técnica y remediación de controles de acceso en entornos Linux aplicando el principio de mínimo privilegio en el directorio de trabajo del usuario researcher2.
+Entregables: Análisis de cadenas de permisos (UGO) y atributos de ficheros (`ls -la`, `ls -ld`), remediación de permisos inseguros en ficheros confidenciales y ocultos (`chmod`), y restricción de privilegios de ejecución en directorios para prevenir accesos indebidos.
+📄 Ver Caso Práctico 3: Gestión de permisos de archivo en Linux
