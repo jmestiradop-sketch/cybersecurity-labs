@@ -43,3 +43,14 @@ Enfocado en aplicar capacidad analítica y atención al detalle para identificar
     * **Auditoría temporal:** Identificación de conexiones sospechosas en fechas específicas combinando operadores condicionales `login_date = '2022-05-09' OR login_date = '2022-05-08'`[cite: 15].
     * **Exclusión geográfica:** Aislamiento de accesos internacionales fuera de México empleando coincidencia por patrones con `country NOT LIKE 'MEX%'`[cite: 15].
     * **Gestión de actualizaciones en endpoints:** Segmentación de equipos por departamento y edificio (`Marketing AND office LIKE 'East-%'`), agrupación interdepartamental (`Finance OR Sales`) y selección del personal excluyendo a TI (`NOT department = 'Information Technology'`)[cite: 13, 15].
+### 3. Evaluación de Vulnerabilidades y Análisis de Riesgos (NIST SP 800-30)
+* 📄 **[Ver informe completo: Evaluación de Vulnerabilidades - Servidor de Bases de Datos](Informe_Evaluacion_Vulnerabilidades.pdf)**
+  * **Objetivo:** Análisis de riesgos y auditoría de controles de acceso en un servidor centralizado de bases de datos (Linux / MySQL) conforme a la metodología **NIST SP 800-30 Rev. 1**.
+  * **Matriz de Riesgos:** Ponderación y clasificación de amenazas críticas:
+    * *Ciberdelincuentes:* Exfiltración de datos confidenciales de clientes y marketing (Riesgo Alto: 9).
+    * *Amenaza interna (empleados):* Interrupción de operaciones críticas de negocio (Riesgo Medio: 6).
+    * *Usuarios/Clientes:* Alteración o borrado accidental de registros (Riesgo Bajo: 3).
+  * **Estrategia de Remediación Implementada:**
+    * *Controles de Acceso (AAA):* Políticas de contraseñas robustas, principio de mínimo privilegio (RBAC) y autenticación multifactor (MFA).
+    * *Comunicaciones Seguras:* Sustitución de SSL obsoleto por cifrado TLS para datos en tránsito.
+    * *Seguridad Perimetral:* Restricción de acceso a la base de datos mediante lista blanca de direcciones IP corporativas (*IP allowlisting*).
